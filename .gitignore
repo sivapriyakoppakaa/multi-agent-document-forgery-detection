@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.log
+
+# Virtual environment
+venv/
+.venv/
+
+# Secrets
+.env
+.env.*
+
+# Uploaded files and generated results
+backend/uploads/*
+backend/ela_outputs/*
